@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>Introduction to HTML Elements</h1>
+<h1>Section 2 -Introduction to HTML Elements</h1>
 
 <p>This repository provides a brief overview of fundamental HTML elements:</p>
 <h2>HTML Element</h2>
