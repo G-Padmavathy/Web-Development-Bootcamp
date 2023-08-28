@@ -21,3 +21,5 @@
   <li>Bolder</li>
   <li>Margin</li>
 </ul>
+<h2>Motivation Meme </h2>
+<img src="https://github.com/G-Padmavathy/Web-Development-Bootcamp/assets/96161598/56571d9e-cad0-4d7b-b514-299cd77677c3" alt="Project image">
