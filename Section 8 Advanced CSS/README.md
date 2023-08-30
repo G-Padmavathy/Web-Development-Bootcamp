@@ -1,4 +1,4 @@
-<h1>Advance CSS</h1>
+<h1>SECTION-8 Advance CSS</h1>
 <h2>Concepts Practised</h2>
 <h3>CSS Property</h3>
 <ul>
